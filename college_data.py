@@ -3,7 +3,7 @@
 # =========================
 
 student_info = {
-    "name": "ch.Nasar",
+    "name": "Nasar",
     "course": "CSE - AI and ML",
     "year": "1st year"
 }

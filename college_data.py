@@ -28,7 +28,7 @@ college_info = {
 timetable = {
     "thursday": [
         "8:30 AM - 9:20 AM — practice session",
-        "9:20 AM - 10:10 AM — ",introductionto CSS|part 1
+        "9:20 AM - 10:10 AM — ",insrtuction CSS|part 1",
         "10:10 AM - 10:25 AM — Break",
         "10:25 AM - 11:00 AM — MCQ Practice Sequence of instructions",
         "11:00 AM - 11:50 AM — MCQ practice",

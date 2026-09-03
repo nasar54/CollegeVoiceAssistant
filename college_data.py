@@ -26,17 +26,17 @@ college_info = {
 # =========================
 
 timetable = {
-    "wednesday": [
-        "8:30 AM - 9:20 AM — introduction to HTML|MCQ practise",
-        "9:20 AM - 10:10 AM — MCQ practice",
+    "thursday": [
+        "8:30 AM - 9:20 AM — practice session",
+        "9:20 AM - 10:10 AM — ",introductionto CSS|part 1
         "10:10 AM - 10:25 AM — Break",
-        "10:25 AM - 11:00 AM — variables and data types MCQ Practice ",
-        "11:00 AM - 11:50 AM — levereging gen ai for accelerated learning",
-        "11:50 AM - 12:40 PM — numbers Daily practice",
+        "10:25 AM - 11:00 AM — MCQ Practice Sequence of instructions",
+        "11:00 AM - 11:50 AM — MCQ practice",
+        "11:50 AM - 12:40 PM — instructon to CSS|part 1|MCQ practice",
         "12:40 PM - 1:30 PM — Lunch Break",
-        "1:30 PM - 2:20 PM — productivity power up with ai tools",
-        "2:20 PM - 3:10 PM — knowledge v/s skill",
-        "3:10 PM - 4:00 PM — Doubt Solving"
+        "1:30 PM - 2:20 PM — Numder system: Octal & Hehadecimal",
+        "2:20 PM - 3:10 PM — workshop program code in air",
+        "3:10 PM - 4:00 PM — workshop program code in air"
     ]
 }
 
@@ -57,7 +57,7 @@ assignments = [
 # =========================
 
 events = [
-    "Python Workshop",
+    "code in air Workshop",
     "AI & ML Seminar",
     "Coding Club Event"
 ]

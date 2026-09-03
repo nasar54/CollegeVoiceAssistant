@@ -26,17 +26,16 @@ college_info = {
 # =========================
 
 timetable = {
-    "thursday": [
-        "8:30 AM - 9:20 AM — practice session",
-        "9:20 AM - 10:10 AM — insrtuction CSS|part 1",
+  "Thursday": [
+        "8:30 AM - 9:20 AM — Practice Session",
+        "9:20 AM - 10:10 AM — Introduction to CSS | Part 1",
         "10:10 AM - 10:25 AM — Break",
-        "10:25 AM - 11:00 AM — MCQ Practice Sequence of instructions",
-        "11:00 AM - 11:50 AM — MCQ practice",
-        "11:50 AM - 12:40 PM — instructon to CSS|part 1|MCQ practice",
+        "10:25 AM - 11:00 AM — MCQ Practice Sequence of Instructions",
+        "11:00 AM - 11:50 AM — MCQ Practice",
+        "11:50 AM - 12:40 PM — Introduction to CSS | Part 1 | MCQ Practice",
         "12:40 PM - 1:30 PM — Lunch Break",
-        "1:30 PM - 2:20 PM — Numder system: Octal & Hehadecimal",
-        "2:20 PM - 3:10 PM — workshop program code in air",
-        "3:10 PM - 4:00 PM — workshop program code in air"
+        "1:30 PM - 2:20 PM — Number Systems Practice",
+        "2:20 PM - 4:00 PM — Gesture workshop by Advanced Tech club"
     ]
 }
 
